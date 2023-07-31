@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JeraldB/MyPersonalWebsite.git/static/css/main.490575e7.css",
+    "main.js": "/JeraldB/MyPersonalWebsite.git/static/js/main.5737e9fc.js",
+    "static/js/787.1f11dfe9.chunk.js": "/JeraldB/MyPersonalWebsite.git/static/js/787.1f11dfe9.chunk.js",
+    "static/media/hobbies1.jpg": "/JeraldB/MyPersonalWebsite.git/static/media/hobbies1.9e80830cede61afd6199.jpg",
+    "static/media/hobbies.jpg": "/JeraldB/MyPersonalWebsite.git/static/media/hobbies.ce07a13d40e8c0ab6cff.jpg",
+    "static/media/hobbies2.jpg": "/JeraldB/MyPersonalWebsite.git/static/media/hobbies2.521afe0b63dca7d767fd.jpg",
+    "static/media/Face_Man.jpg": "/JeraldB/MyPersonalWebsite.git/static/media/Face_Man.27bd66eb05ee08f6995e.jpg",
+    "static/media/face_man1.jpg": "/JeraldB/MyPersonalWebsite.git/static/media/face_man1.d97ff3e7c6e5d641476e.jpg",
+    "static/media/face_man2.jpg": "/JeraldB/MyPersonalWebsite.git/static/media/face_man2.14b801ade2b0d59ee43e.jpg",
+    "index.html": "/JeraldB/MyPersonalWebsite.git/index.html",
+    "main.490575e7.css.map": "/JeraldB/MyPersonalWebsite.git/static/css/main.490575e7.css.map",
+    "main.5737e9fc.js.map": "/JeraldB/MyPersonalWebsite.git/static/js/main.5737e9fc.js.map",
+    "787.1f11dfe9.chunk.js.map": "/JeraldB/MyPersonalWebsite.git/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490575e7.css",
+    "static/js/main.5737e9fc.js"
+  ]
+}
